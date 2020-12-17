@@ -1,5 +1,6 @@
-# Bash the Unix shell
-Tools to use and master Bash
+# The Unix workbench final project
+Date and time make was run:
+Thu Dec 17 06:34:27 UTC 2020
 
-- Click [here](https://github.com/rjmbcn/bash_shell/tree/master/unix_workbench) for Peer-graded Assignment: Bash, Make, Git, and GitHub
-- Awesome introductory course to Bash [The Unix Workbench](https://www.coursera.org/learn/unix) 
+Number of lines in guessinggame: 
+      24
