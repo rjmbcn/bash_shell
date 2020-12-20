@@ -1,6 +1,5 @@
-# The Unix workbench final project
-Date and time make was run:
-Thu Dec 17 06:34:27 UTC 2020
+# Bash and the Unix workbench
+Bash and other tools in the Unix workbench
 
-Number of lines in guessinggame: 
-      24
+- Awesome introductory course to Bash [The Unix Workbench](https://www.coursera.org/learn/unix) 
+- [The python tutor](http://pythontutor.com/)
